@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Nosieek
 - 👀 I’m interested in motosport
 - 🌱 I’m currently learning python :P
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me mateusz.nosko13@gmail.com
