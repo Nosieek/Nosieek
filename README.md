@@ -8,6 +8,9 @@ I am self-taught person who develops passion for programming. I would like to te
 * ✉️  You can contact me at [mateusz.nosko13@gmail.com](mailto:mateusz.nosko13@gmail.com)
 * 🧠  I'm learning Spring, React
 
+# 👨‍💻 Javact / MovieSpot - a project I'm currently working on
+## 🌍💻 Demo on Heroku [MovieSpot](https://moviespot-4f9b38446e80.herokuapp.com)
+
  <img align="right" alt="GIF" src="https://github.com/Nosieek/Nosieek/blob/main/coder.gif" width="550" height="320" />
 
 ### Skills
